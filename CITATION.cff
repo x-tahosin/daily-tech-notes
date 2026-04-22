@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: Tahosin
+    given-names: S M
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Daily Tech Notes"
+version: "1.0.0"
+date-released: "2026-04-22"
+url: "https://github.com/x-tahosin/daily-tech-notes"
